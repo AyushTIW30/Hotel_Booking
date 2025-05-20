@@ -37,14 +37,6 @@ Welcome to the **Hotel Table Booking Web Form** — a modern, sleek, and mobile-
 
 ---
 
-## 📸 Screenshots
-
-| Booking Form | OTP Verification | Booking Success |
-|--------------|------------------|-----------------|
-| ![Step 1](https://via.placeholder.com/300x200?text=Form+Step+1) | ![Step 2](https://via.placeholder.com/300x200?text=OTP+Step) | ![Step 3](https://via.placeholder.com/300x200?text=Success) |
-
----
-
 ## 🛠️ Setup Instructions
 
 1. 📁 Clone or download the repo  
